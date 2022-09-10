@@ -1,2 +1,1 @@
-Hi, I'm Rnmarshall93. I enjoy programming and i'm currently working on gaining mastery over Java. While I do use mainly Java, I also enjoy using other languages when
-a good opportunity to use them presents itself.
+Hi, I'm Rnmarshall93. I enjoy all kinds of projects and i'm always adding new languages, libraries, and, frameworks to my list of skills. Here you will find some of my nicer projects that i'd like to show off for people trying to pick up some skill, or to show that I have experience creating with said skills.
