@@ -1,1 +1,1 @@
-Hi, I'm Rnmarshall93. I enjoy all kinds of projects and i'm always adding new languages, libraries, and, frameworks to my list of skills. Here you will find some of my nicer projects that i'd like to show off for people trying to pick up some skill, or to show that I have experience with said skills.
+Hi, I'm Rnmarshall93. I enjoy all kinds of projects and i'm always adding new languages, libraries, and, frameworks to my list of skills.
