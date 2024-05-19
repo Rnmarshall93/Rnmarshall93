@@ -1,1 +1,3 @@
-Hi, I'm Rnmarshall93. I enjoy all kinds of projects and i'm always adding new languages, libraries, and, frameworks to my list of skills.
+Hello! I'm a passionate software developer with 14 years of programming experience. My main expertise lies in Java, but I'm also well-versed in Ruby on Rails and JavaScript. Over the years, I've honed my skills in a variety of programming languages, including Python, PHP, C#, C++, and Rust, though my strongest proficiencies are in Java, Ruby, and JavaScript.
+
+Programming is more than just a career for me; it's a hobby and a creative outlet. I love solving problems and creating software that meets my own needs and the needs of others. Whether it's developing new tools, contributing to open-source projects, or simply exploring new technologies, I'm always excited about the next challenge.
